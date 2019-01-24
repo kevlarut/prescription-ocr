@@ -1,0 +1,15 @@
+c:\dev\OcrRx\OcrRx\bin\Debug\x86\liblept1753.dll
+c:\dev\OcrRx\OcrRx\bin\Debug\x86\libtesseract3052.dll
+c:\dev\OcrRx\OcrRx\bin\Debug\x64\liblept1753.dll
+c:\dev\OcrRx\OcrRx\bin\Debug\x64\libtesseract3052.dll
+c:\dev\OcrRx\OcrRx\bin\Debug\phototest.tif
+c:\dev\OcrRx\OcrRx\bin\Debug\OcrRx.exe.config
+c:\dev\OcrRx\OcrRx\bin\Debug\OcrRx.exe
+c:\dev\OcrRx\OcrRx\bin\Debug\OcrRx.pdb
+c:\dev\OcrRx\OcrRx\bin\Debug\Tesseract.dll
+c:\dev\OcrRx\OcrRx\obj\Debug\OcrRx.csprojResolveAssemblyReference.cache
+c:\dev\OcrRx\OcrRx\obj\Debug\OcrRx.exe
+c:\dev\OcrRx\OcrRx\obj\Debug\OcrRx.pdb
+c:\dev\OcrRx\OcrRx\bin\Debug\tessdata\eng.traineddata
+c:\dev\OcrRx\OcrRx\bin\Debug\tessdata\script\Latin.traineddata
+c:\dev\OcrRx\OcrRx\bin\Debug\rx.png
